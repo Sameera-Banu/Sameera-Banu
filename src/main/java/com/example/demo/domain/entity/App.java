@@ -6,7 +6,6 @@ import javax.persistence.*;
 /**
  * Gets the details of a todo item 
  * @author Sameera
- *
  */
 public class App 
 {  
