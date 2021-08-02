@@ -4,8 +4,9 @@ import org.hibernate.service.spi.ServiceException;
 import com.example.demo.domain.entity.App;
 
 /**
- * Declares application specific functions
+ * Declares application specific functions 
  * @author Sameera
+ *
  */
 public interface AppService {
 	
