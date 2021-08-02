@@ -12,7 +12,6 @@ import com.example.demo.domain.repository.AppRepo;
 /**
  * Implements the AppService Interface
  * @author Sameera
- *
  */
 public class AppServiceImple implements AppService
 {
