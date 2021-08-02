@@ -6,7 +6,6 @@ import com.example.demo.domain.entity.App;
 /**
  * Declares application specific functions
  * @author Sameera
- *
  */
 public interface AppService {
 	
